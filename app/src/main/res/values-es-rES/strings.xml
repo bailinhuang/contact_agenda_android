@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ejercicio 6</string>
+    <string name="action_settings">Configuración</string>
+    <string name="user_not_found_msg">Usuario no encontrado</string>
+    <string name="error_msg">Los campos no deben estar vacíos</string>
+    <string name="error_title">Error</string>
+    <string name="btn_add">Agregar</string>
+    <string name="text_name_hint">Nombre</string>
+    <string name="text_phone_hint">Número de Teléfono</string>
+    <string name="add_success_msg">Se ha agregado </string>
+</resources>
